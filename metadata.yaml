@@ -1,0 +1,54 @@
+_repo: Scaramouche--A-Romance-of-the-French-Revolution_1947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: "Scaramouche is an historical novel by Rafael Sabatini, originally published\
+  \ in 1921. A romantic adventure, Scaramouche tells the story of a young lawyer during\
+  \ the French Revolution. In the course of his adventures he becomes an actor portraying\
+  \ \"Scaramouche\" (a roguish buffoon character in the commedia dell'arte). He also\
+  \ becomes a revolutionary, politician, and fencing-master, confounding his enemies\
+  \ with his powerful orations and swordsmanship. He is forced by circumstances to\
+  \ change sides several times. The book also depicts his transformation from cynic\
+  \ to idealist.\nThe three-part novel opens with the memorable line: \"He was born\
+  \ with a gift of laughter and a sense that the world was mad.\" This line was to\
+  \ become Sabatini's epitaph, on his gravestone in Adelboden, Switzerland.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Best Books Ever Listings
+- Movie Books
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1947'
+  wikidata: Q533575
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Love stories'
+- !lcsh 'War stories'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Scaramouche: A Romance of the French Revolution'
+url: http://www.gutenberg.org/ebooks/1947
+wikipedia:
+- https://fr.wikipedia.org/wiki/Scaramouche_(roman)
+- https://nl.wikipedia.org/wiki/Scaramouche_(boek)
+- https://es.wikipedia.org/wiki/Scaramouche_(novela)
+- https://en.wikipedia.org/wiki/Scaramouche_(novel)
+- https://it.wikipedia.org/wiki/Scaramouche_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D1%80%D0%B0%D0%BC%D1%83%D1%88_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Scaramouche_(roman)
+- https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%B9%B4%EB%9D%BC%EB%AC%B4%EC%8A%88_(%EC%86%8C%EC%84%A4)
+- https://sv.wikipedia.org/wiki/Scaramouche_-_de_tusen_%C3%A4ventyrens_man
