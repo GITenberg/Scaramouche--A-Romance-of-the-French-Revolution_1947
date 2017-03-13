@@ -1,5 +1,8 @@
 _repo: Scaramouche--A-Romance-of-the-French-Revolution_1947
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -20,6 +23,8 @@ description: "Scaramouche is an historical novel by Rafael Sabatini, originally 
   \ with a gift of laughter and a sense that the world was mad.\" This line was to\
   \ become Sabatini's epitaph, on his gravestone in Adelboden, Switzerland.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1947#Scaramouche--A-Romance-of-the-French-Revolution
 gutenberg_bookshelf:
 - Adventure
 - Best Books Ever Listings
